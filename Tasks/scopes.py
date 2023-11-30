@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # scopes1.py
 # Local versus global
 
