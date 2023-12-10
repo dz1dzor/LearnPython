@@ -2,4 +2,5 @@
 def greeting():
     print("Hello Bismarck")
 
+
 greeting()
